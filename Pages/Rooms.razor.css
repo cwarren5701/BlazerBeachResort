@@ -1,0 +1,46 @@
+.rooms-content {
+    background-color: white;
+    max-width: 866px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 30px;
+}
+
+.rooms-content h1,
+h3 {
+    color: lightseagreen;
+}
+
+.rooms-content p {
+    line-height: 2em;
+}
+
+#room {
+    display: flex;
+    padding-bottom: 1px;
+    padding-top: 1px;
+}
+
+#image {
+    flex: 1
+}
+
+#image-image {
+    border: 1px solid;
+    border-color: lightseagreen
+}
+
+#description {
+    padding-left: 10px;
+    margin-left: 10px;
+}
+
+#rate {
+    margin-top: 109.75px;
+    text-align: center;
+    color: lightseagreen;
+    border: 1px solid;
+    padding: 2px;
+    border-color: black;
+    width: 30%
+}

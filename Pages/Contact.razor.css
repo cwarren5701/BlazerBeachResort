@@ -1,0 +1,18 @@
+.page-content {
+    background-image:url(images/bg-pattern.jpg);
+    display: flex;
+}
+
+.left-side {
+    flex: 1;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+
+.right-side{
+    flex: 1.2;
+    border: 1px solid;
+    padding: 10px;
+}
+

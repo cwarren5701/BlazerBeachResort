@@ -1,0 +1,8 @@
+.form-wrapper {
+    display: flex;
+    flex-direction: column;
+}
+.page-content{
+    background-image: url("images/bg-pattern.jpg");
+}
+
